@@ -1,4 +1,4 @@
-fritzing
+Fritzing
 ========
 
-Fritzing parts produced for Zetta recipes
+Fritzing](http://fritzing.org/) parts produced for Zetta recipes. 
